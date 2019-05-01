@@ -33,7 +33,7 @@
           "tasks": [
             {
               "type": "exec",
-              "command": "pwd"
+              "command": "ls"
             }
           ]
         }
